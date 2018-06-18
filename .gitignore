@@ -1,0 +1,5 @@
+# Don't push any migrations files up. 
+migrations*
+
+# Don't push pycache files 
+**/__pycache__*
