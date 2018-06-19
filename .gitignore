@@ -3,3 +3,6 @@ migrations*
 
 # Don't push pycache files 
 **/__pycache__*
+
+# Don't push items in .idea
+.idea/** 
